@@ -32,7 +32,7 @@
 				<!-- Intro -->
 					<section id="intro" class="wrapper style1 fullscreen fade-up">
 						<div class="inner">
-							<h1>My World</h1>
+							<h1>My Blog</h1>
 							<p>Hi ..!! This is Riyaz Panjwani, Studying Electronics and Communication Engineering at <a href="https://mnnit.ac.in">NIT Allahabad </a><br />
 						 I Love to cook code, eat delicious food and Sleep a lot ;) </p>
 							<ul class="actions">
@@ -71,8 +71,8 @@
 							<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
 							<div class="content">
 								<div class="inner">
-									<h2>Summer Internship</h2>
-									<p>I did my Summer Internship at NIT Warangal, The Project being titled as "A Breif Introduction to package testing using trackeR package" for more details please visit my <a href="https://github.com/riyazpanjwani"> Github</a>profile</p>
+									<h2>Ultricies aliquam</h2>
+									<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 									<ul class="actions">
 										<li><a href="#" class="button">Learn more</a></li>
 									</ul>
@@ -84,32 +84,28 @@
 				<!-- Two -->
 					<section id="two" class="wrapper style3 fade-up">
 						<div class="inner">
-							<h2>What does he do ?</h2>
-							<p>I like spending time with my friends and my family.I probably have the most crazy people as my friends.
-							I like to debate.I am an orater and have won many Extempores,Debates and MUN's.I have been a part of Gno-Talks organising committee. 
-							</p>
+							<h2>What we do</h2>
+							<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
 							<div class="features">
 								<section>
 									<span class="icon major fa-code"></span>
-									<h3>Electronics ??</h3>
-									<p>Yeah, I am an Electronics Engineer by choice and Coder by passion.I think you cannot be a good engineer if you miss the electronics part, both compliment each other like ice-cream and Cone ;)</p>
+									<h3>Lorem ipsum amet</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
 								</section>
 								<section>
 									<span class="icon major fa-lock"></span>
-									<h3>Native</h3>
-									<p>I have been through a lot of places and want to visit a lot more, Some being Nanded,Hyderabad,
-									Mumbai,New York,Orlando and UAE :).
-									</p>
+									<h3>Aliquam sed nullam</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
 								</section>
 								<section>
 									<span class="icon major fa-cog"></span>
-									<h3>What is his grade??</h3>
-									<p>My CPI is 8.78 (SPI 9.19)</p>
+									<h3>Sed erat ullam corper</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
 								</section>
 								<section>
 									<span class="icon major fa-desktop"></span>
-									<h3>What's his inspiration ??</h3>
-									<p>My inspiration is my Parents.They are pretty cool !!</p>
+									<h3>Veroeros quis lorem</h3>
+									<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
 								</section>
 								<section>
 									<span class="icon major fa-chain"></span>
@@ -132,10 +128,10 @@
 					<section id="three" class="wrapper style1 fade-up">
 						<div class="inner">
 							<h2>Get in touch</h2>
-							<p>Rightly said:"Success has nothing to do with what you gain in life or accomplish for yourself.It's what you do for others".You can reach me any time all you have to do is drop a message.</p>
+							<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
 							<div class="split style1">
 								<section>
-									<form action="https://formspree.io/riyazpanjwani96@gmail.com" method="POST">
+									<form method="post" action="#">
 										<div class="field half first">
 											<label for="name">Name</label>
 											<input type="text" name="name" id="name" />
@@ -157,25 +153,25 @@
 									<ul class="contact">
 										<li>
 											<h3>Address</h3>
-											<span>H.No:4-9-147, Main Road<br />
-											Boyzz Street, Main Road, Hanmakonda, Warangal,Telangana -506001<br />
-											India</span>
+											<span>12345 Somewhere Road #654<br />
+											Nashville, TN 00000-0000<br />
+											USA</span>
 										</li>
 										<li>
 											<h3>Email</h3>
-											<a href="#">riyazpanjwani96@gmail.com</a>
+											<a href="#">user@untitled.tld</a>
 										</li>
 										<li>
 											<h3>Phone</h3>
-											<span>(+91) 8953567592</span>
+											<span>(000) 000-0000</span>
 										</li>
 										<li>
 											<h3>Social</h3>
 											<ul class="icons">
 												<li><a href="#" class="fa-twitter"><span class="label">Twitter</span></a></li>
-												<li><a href="https://www.facebook.com/riyaz.panjwani.56" class="fa-facebook"><span class="label">Facebook</span></a></li>
-												<li><a href="https://github.com/riyazpanjwani" class="fa-github"><span class="label">GitHub</span></a></li>
-												<li><a href="https://www.instagram.com/riyaz.panjwani/" class="fa-instagram"><span class="label">Instagram</span></a></li>
+												<li><a href="#" class="fa-facebook"><span class="label">Facebook</span></a></li>
+												<li><a href="#" class="fa-github"><span class="label">GitHub</span></a></li>
+												<li><a href="#" class="fa-instagram"><span class="label">Instagram</span></a></li>
 												<li><a href="#" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
 											</ul>
 										</li>
@@ -191,7 +187,7 @@
 			<footer id="footer" class="wrapper style1-alt">
 				<div class="inner">
 					<ul class="menu">
-						<li>&copy; Untitled. All rights reserved.</li><li>Design: devil</li>
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 					</ul>
 				</div>
 			</footer>
